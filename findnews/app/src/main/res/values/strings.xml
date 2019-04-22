@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Find-News+</string>
+    <string name="ig">Instagram</string>
+    <string name="app_description">Application for news update</string>
+    <string name="app_description2">Read news because it increases your knowledge.
+        knowledge without religion is lame, religion without knowledge is blind</string>
+    <string name="albert">Albert Einstein</string>
+    <string name="started_at">Started at</string>
+    <string name="started_at_time">April 19</string>
+    <string name="finished_at">Finished at</string>
+    <string name="finished_at_time">June 19</string>
+    <string name="followus">Follow Us</string>
+    <string name="youtube">Youtube</string>
+    <string name="search">Search</string>
+    <string name="error">Error Title</string>
+    <string name="errorm">Error Message</string>
+    <string name="titlehome">Top Update</string>
+    <string name="home">Home News</string>
+    <string name="close">X</string>
+    <string name="donate_here">Involve yourself in technology</string>
+    <string name="find_news_application">Find News Application</string>
+    <string name="account_number">Account Number</string>
+    <string name="number_account">4470043120</string>
+    <string name="paypal_number">Paypal Address</string>
+    <string name="number_paypal">newsigit53@gmail</string>
+    <string name="donatess">Donate Here!</string>
+    <string name="findnews_desc_home">Find your news update</string>
+    <string name="direct_your_phone">Place your phone!</string>
+    <string name="subject_email">Subject</string>
+    <string name="to_email">To</string>
+    <string name="ideas_email">Ideas</string>
+    <string name="send_email">SEND</string>
+    <string name="gmail_findnews">findnewsupdate@gmail.com</string>
+</resources>
